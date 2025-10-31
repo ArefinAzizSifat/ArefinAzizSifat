@@ -23,7 +23,7 @@
 
 
 ---
-
+            
 ## 📈 My GitHub Stats
 
 <div align="center">
@@ -41,7 +41,7 @@
 
 | Platform | Link/Handle |
 | :--- | :--- |
-| **Portfolio** | Curently working on it |
+| **Portfolio** | Currently working on it |
 | **LinkedIn** | https://www.linkedin.com/in/arefinazizsifat/ |
 | **Email** | Aarefin.a.sifat22@gmail.com |
 
